@@ -3,11 +3,4 @@ This project allows user to login, register and see registered users with spring
 
 RIBRARIES
 
-Spring Web
-Spring Data Jpa
-MySql Driver
-Spring Security
-Thymeleaf
-Validation
-Spring Boot DevTools
-Lombok
+Spring Web,Spring Data Jpa,MySql Driver,Spring Security,Thymeleaf,Validation,Spring Boot DevTools,Lombok
